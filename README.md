@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a software engineer living in Salt Lake City, Utah. My background is mostly development in a handful of industries -- flight simulation, medical/acedemic publishing, flash storage, and some blockchain work. 
+
+I've always been interested in reducing developer toil and helping myself and coworkers work more efficiently. The last few years my focus has been platform engineering / SRE / DevOps work, and I currently work at a mid-size retailer assisting with app modernization and cloud adoption (Terraform, CICD, Observability, etc). 
+
+In my spare time, I like to cook, garden, read sci-fi and fantasy, and play TTRPGs.
