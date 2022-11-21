@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm a software engineer living in Salt Lake City, Utah. My background is mostly development in a handful of industries -- flight simulation, medical/acedemic publishing, flash storage, and blockchain. 
 
-I've always been interested in reducing developer toil and helping myself and coworkers work more efficiently. The last few years my focus has been platform engineering / SRE / DevOps work, and I currently work at an online retailer assisting with app modernization and cloud adoption (Terraform, CICD, Observability, etc). 
+I've always been interested in reducing developer toil and helping myself and coworkers work more efficiently. The last few years my focus has been platform engineering / SRE / DevOps work, and I currently work at an online retailer assisting teams with app modernization and cloud adoption (Terraform, CICD, Observability, etc). 
 
 I like to cook, garden, read sci-fi and fantasy, and play TTRPGs.
 
